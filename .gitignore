@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+*.env
+*.env.local
+
+# Pytest
+.pytest_cache/
+
+# Editor Configurations
+*.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*.lock
+
+# CSV and datasets (opcional)
+*.csv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Matplotlib cache
+~/.cache/matplotlib
+
+# Generated Images and Plots
+*.png
+*.svg
+*.jpg
+*.jpeg
+
+# Pyright / Pylint / MyPy / Coverage
+.mypy_cache/
+.coverage
+.coverage.*
+*.cover
+*.pyc
+
+# Cache
+.cache/
+.tox/
+.nox/
+coverage/
+*.egg-info/
+.eggs/
+
+# Ignore files from the 'build' and 'dist' folders
+build/
+dist/
+*.egg
+*.egg-info/
+*.whl
+*.manifest
+*.spec
+
+# VS Code files
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Linux
+*.swp
